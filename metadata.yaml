@@ -1,0 +1,32 @@
+_repo: Beowulf--13-An-Anglo-Saxon-Epic-Poem_16328
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hall, J. Lesslie (John Lesslie)
+    aliases:
+    - Hall, John Lesslie
+    - Hall, J. L. (John Lesslie)
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '6638'
+    url: http://www.gutenberg.org/2009/agents/6638
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Translated From The Heyne-Socin Text by Lesslie Hall
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2005-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monsters -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Epic poetry, English (Old)'
+- !lcsh 'Dragons -- Poetry'
+title: 'Beowulf: An Anglo-Saxon Epic Poem'
+url: http://www.gutenberg.org/ebooks/16328
